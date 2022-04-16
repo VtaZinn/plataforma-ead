@@ -1,0 +1,126 @@
+﻿body
+{
+	background-color: white;
+	margin: 0;
+	
+}
+
+.DivTopo {
+	background-color: #ffc691;
+	height: 100px;
+	margin-top: 0;
+	box-shadow: 1px 1px 10px black;
+}
+
+.logo {
+	border-radius: 100%;
+	width: 150px;
+	margin-top: 5px;
+}
+
+.menu {
+	font-family: 'Bebas Neue', cursive;
+	color: black;
+	margin: 0 auto;
+	display: flex;
+	list-style: none;
+	justify-content: space-between;
+	align-items: center;
+	width: 500px;
+	height: 100px;
+	padding: 0%;
+	
+}
+
+.menu a {
+	text-decoration: none;
+	color: black;
+}
+
+.conteudo {
+	height: 500px;
+}
+.Rodape {
+	color: #ffc691;
+	display: flex;
+	margin-bottom: 0;
+	background-color: #ffc691;
+	height: 130px;
+	justify-content: center;
+	margin-top: 0;
+}
+
+.Direitos {
+	margin-top: 0;
+	color: black;
+	background-color: #ffc691;
+	height: 30px;
+}
+
+.Direitos p {
+	margin-top: 0;
+	text-align: center;
+}
+
+.logoRodape {
+	width: 270px;
+	height: 70px;
+	margin-top: 30px;
+}
+
+.conteudo {
+	font-family: 'Bebas Neue', cursive;
+	font-weight: bold;
+}
+
+.conteudo1 {
+	display: flex;
+	margin: 40px auto;
+	background-color: aliceblue;
+	width: 1000px;
+	height: 400px;
+	justify-content: space-evenly;
+	align-items: center;
+	box-shadow: 1px 1px 20px black;
+}
+
+.japinhaEstudando {
+	width: 550px;
+}
+
+.Textoconteudo {
+	align-items: center;
+	width: 300px;
+	height: 300px;
+	color: black;
+	text-align: center;
+	padding-top: 65px;
+}
+
+.TextoVisao {
+	text-align: center;
+}
+
+.VisaoValores {
+	color:#ffc691;
+}
+
+.Sobre {
+	display: flex;
+	justify-content: center;
+}
+
+.logoSobre {
+	width: 150px;
+	height: 50px;
+	margin-left: 80px;
+}
+
+.metodo {
+	text-align: center;
+}
+
+.metodoInterativo {
+	color:#ffc691;
+}
+
